@@ -1,14 +1,14 @@
 {
-	"name": "lsp-sample",
-	"description": "A language server example",
-	"author": "Microsoft Corporation",
-	"license": "MIT",
+	"name": "backquotedtermcompletion",
+	"description": "Completion for backquoted terms",
 	"version": "1.0.0",
+	"author": "Hidemoto Nakada",
+	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Microsoft/vscode-extension-samples"
+		"url": "https://github.com/HidemotoNakada/lsp-trans"
 	},
-	"publisher": "vscode-samples",
+	"publisher": "hidemoto nakada",
 	"categories": [],
 	"keywords": [
 		"multi-root ready"

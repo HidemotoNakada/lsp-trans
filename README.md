@@ -1,6 +1,4 @@
-# LSP Example
-
-Heavily documented sample code for https://code.visualstudio.com/api/language-extensions/language-server-extension-guide
+# LSP to complete backquoted words
 
 ## Functionality
 
