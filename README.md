@@ -1,12 +1,19 @@
-# LSP to complete backquoted words
+# LSP to complete back-quoted words
 
 ## Functionality
 
-This Language Server works for plain text file. It has the following language features:
-- Completions
-- Diagnostics regenerated on each file change or configuration change
+Provides completion recommendation for back-quoted term.
+It can handle plain text file or asciidoc files.
+Note that if other extension is enabled for asciidoc files,
+this will not work.
 
-It also includes an End-to-End test.
+
+## install
+
+```
+/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code --install-extension backquotedtermcompletion-1.0.0.vsix
+```
+
 
 ## Structure
 
